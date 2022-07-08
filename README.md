@@ -2,9 +2,9 @@
 
 This is Roshan Ali
 
--My Linkedin Profile: https://www.linkedin.com/in/roshan-ali-shaik-011714222/
+- My Linkedin Profile: https://www.linkedin.com/in/roshan-ali-shaik-011714222/
 
--My website(under development): https://codeknight.weebly.com/
+- My website(under development): https://codeknight.weebly.com/
 
 Love to code and learn
 
