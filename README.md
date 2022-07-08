@@ -16,9 +16,9 @@ Aim to become an Ethical Hacker
 Programming since 2017
 
 
-    - 💬 Ask me about--> Java, Python and C programming
-    - 📫 How to reach me: roshanali339lps@gmail.com
-    - 🔭 I’m currently working on: Python GUI modules
+- 💬 Ask me about--> Java, Python and C programming
+- 📫 How to reach me: roshanali339lps@gmail.com
+- 🔭 I’m currently working on: Python GUI modules
 
 
 <!--
