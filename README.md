@@ -6,15 +6,6 @@ This is Roshan Ali
 
 - My website(under development): https://codeknight.weebly.com/
 
-Love to code and learn
-
-Currently pursuing Computer Science and Engineering B.Tech from R.V.R & J.C College of Engineering 
-
-
-Aim to become an Ethical Hacker
-
-Programming since 2017
-
 
 - 💬 Ask me about--> Java, Python and C programming
 - 📫 How to reach me: roshanali339lps@gmail.com
