@@ -9,7 +9,7 @@ This is Roshan Ali
 
 - 💬 Ask me about--> Java, Python and C programming
 - 📫 How to reach me: roshanali339lps@gmail.com
-- 🔭 I’m currently working on: Python GUI modules
+- 🔭 I’m currently working on: Networking
 
 
 <!--
