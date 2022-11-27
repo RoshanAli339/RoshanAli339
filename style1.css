@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Rubik:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(bgImage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.siteName {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 40px;
+    color: rgb(58, 255, 32);
+}
+
+.nav-item {
+    display: inline-block;
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.nav-item::after {
+    content: '';
+    width: 0px;
+    height: 3px;
+    display: block;
+    background: rgb(247, 247, 32);
+    transition: 300ms;
+}
+
+.nav-item:hover::after {
+    width: 100%;
+}
+
+.wave {
+    -webkit-animation-duration: 2.1s;
+    animation-duration: 2.1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: wave-animation;
+    animation-name: wave-animation;
+    display: inline-block;
+    -webkit-transform-origin: 70% 70%;
+    transform-origin: 70% 70%
+}
+
+@-webkit-keyframes wave-animation {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    10% {
+        -webkit-transform: rotate(14deg);
+        transform: rotate(14deg)
+    }
+
+    20% {
+        -webkit-transform: rotate(-8deg);
+        transform: rotate(-8deg)
+    }
+
+    30% {
+        -webkit-transform: rotate(14deg);
+        transform: rotate(14deg)
+    }
+
+    40% {
+        -webkit-transform: rotate(-4deg);
+        transform: rotate(-4deg)
+    }
+
+    50% {
+        -webkit-transform: rotate(10deg);
+        transform: rotate(10deg)
+    }
+
+    60% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+}
+
+@keyframes wave-animation {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    10% {
+        -webkit-transform: rotate(14deg);
+        transform: rotate(14deg)
+    }
+
+    20% {
+        -webkit-transform: rotate(-8deg);
+        transform: rotate(-8deg)
+    }
+
+    30% {
+        -webkit-transform: rotate(14deg);
+        transform: rotate(14deg)
+    }
+
+    40% {
+        -webkit-transform: rotate(-4deg);
+        transform: rotate(-4deg)
+    }
+
+    50% {
+        -webkit-transform: rotate(10deg);
+        transform: rotate(10deg)
+    }
+
+    60% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+}
+
+.intro
+{
+    color: aliceblue;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 100px;
+}
+
+
+.intro .myName
+{
+    margin-top: 20px;
+    font-size: 45px;
+    color: darkgoldenrod;
+}
