@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Rubik:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Nanum+Gothic:wght@400;700&family=Roboto:wght@400;700&family=Rubik:wght@700&display=swap');
 body {
     margin: 0;
     padding: 0;
@@ -134,13 +133,31 @@ body {
 {
     color: aliceblue;
     font-family: 'Rubik', sans-serif;
-    margin-left: 100px;
+    margin-left: 250px;
+    padding: 0;
 }
 
+.home-header
+{
+    margin-top: 200px;
+}
 
-.intro .myName
+.myName
 {
     margin-top: 20px;
     font-size: 45px;
     color: darkgoldenrod;
+}
+
+.introduce
+{
+    color: aqua;
+}
+
+
+.self-intro-head, .titles
+{
+    margin-left: 300px;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: antiquewhite;
 }
