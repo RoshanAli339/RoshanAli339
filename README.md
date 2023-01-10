@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a CS Undergrad<br>I love to code<br>Interested in Cyber Security and Web Dev<br>
+I'm currently a 2nd year CS Undergrad<br>Cyber Security Intern<br>Interested in Web Development<br>
 
 
 ## 🌐 Socials:
